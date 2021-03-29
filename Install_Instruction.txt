@@ -1,0 +1,3 @@
+step1.没有安装MATLAB(R2010b)，或MCR installer 7.14的用户需要先运行MCRinstaller.exe；
+step2.运行setup.exe，按照提示进行安装；
+step3.安装完成。可通过安装目录下的SwaveSplit.exe,，或开始菜单中的快捷方式打开软件。
